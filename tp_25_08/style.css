@@ -1,0 +1,10 @@
+body {
+    font-family:"Comic Sans MS";
+}
+#divBoiteBtn {
+    margin-top: 30px;
+}
+#divConseil {
+    margin-top: 20px;
+    background-color: #dadada;
+}
