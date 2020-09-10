@@ -1,0 +1,29 @@
+@media screen and (max-width: 750px) {
+    .image {
+      width: 450px;
+    }
+  }
+
+.sectionVideo {
+    margin-top: 10vh;
+    height: 50vh;
+    width: 100vw;
+    background-color: #515f67 ;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+iframe {
+    filter: grayscale(1);
+}
+
+.boutonVideo {
+    background-color: #515f67 ;
+    border: 2px solid #353f47 ;
+    border-radius: 0px;
+}
+
+.boutonVideo:hover {
+    background-color: #353f47;
+    color: white;
+}

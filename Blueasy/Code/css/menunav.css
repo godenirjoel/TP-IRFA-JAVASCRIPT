@@ -1,0 +1,26 @@
+.maNav {
+    height: 15vh;
+    background-color: #515f6794;
+    position: absolute;
+    width: 100vw;
+    color: white;
+}
+
+
+#navbar a {
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+}
+
+#navbar a:hover {
+    
+    color: #4bcaff;
+}
+
+.nav-item:hover {
+    border: 2px solid #4bcaff;
+}
+
+
+

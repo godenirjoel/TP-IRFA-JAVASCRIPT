@@ -1,0 +1,42 @@
+@media screen and (max-width: 750px) {
+    .iconeJohn {
+      margin: 50px;
+    }
+    .iconeJohn i {
+        margin: 10px;
+    }
+    .descriptionService {
+        text-align: justify;
+    }
+  } 
+
+.johnDoe{
+    background-image: url(../img/fondphoto.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    padding-bottom: 10vh;
+}
+
+.containerJohn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iconeJohn {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+.iconeJohn i {
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.iconeJohn i:hover{
+    background-color: #4bcaff ;
+}

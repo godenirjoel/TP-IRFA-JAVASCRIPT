@@ -1,0 +1,68 @@
+@media screen and (max-width: 750px) {
+    .textForm {
+      text-align: center;
+      width: 75vw;
+    }
+    .listeForm {
+        width: 75vw;
+        padding-top: 5vh;
+        text-align: center;
+    }
+  } 
+
+.containerFormulaire {
+    background-image: url(../img/footer.png);
+    height: 80%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-bottom: 40px;
+}
+
+.formulaire {
+    padding-top: 10vh;
+}
+
+.textForm {
+    color: white;
+    margin-top: 5vh;
+    padding-left: 10%;
+    font-weight: bold;
+}
+
+.listeForm {
+    font-weight: bold;
+    color: white;
+    padding-left: 4%;
+}
+
+.form-control {
+    background-color: rgba(255, 255, 255, 0);
+    margin-top: 5px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 0px;
+    border: 2px solid white
+}
+
+label {
+    margin-top: 15px;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.btnForm {
+    margin-top: 5vh;
+    background-color: #4bcaff ;
+    color: white;
+    text-transform: uppercase;
+    border-radius: 0px;
+    padding: 15px;
+}
+
+.btnForm:hover {
+    background-color: white ;
+    color: #4bcaff;
+}

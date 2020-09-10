@@ -1,0 +1,49 @@
+@media screen and (max-width: 750px) {
+    .sectionCard {
+      text-align: center;
+      width: 100vw;
+    }
+  } 
+
+.fondService {
+    height: 60%;
+    background-color: #4bcaff ;
+}
+
+.containerService {
+    padding-top: 10vh;
+}
+
+.titreService {
+    color: white;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.souligne {
+    width: 60px ;
+    border: 1px solid white;
+}
+
+.cardService {
+    margin-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+.sousTitre {
+    color: white;
+    margin-top: 2vh;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.descriptionService {
+    color: white;
+    text-align: inherit;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.sectionCard {
+    margin-top: 10px;
+}

@@ -1,0 +1,25 @@
+/* @font-face {
+    font-family: "CaviarDreams";
+    src: url(../police/CaviarDreams.ttf);
+    src: url(../police/CaviarDreams_Bold.ttf);
+    src: url(../police/CaviarDreams_BoldItalic.ttf);
+    src: url(../police/CaviarDreams_Italic.ttf);
+}; */
+
+@import url("menunav.css");
+@import url("header.css");
+@import url("service.css");
+@import url("porfolio.css");
+@import url("video.css");
+@import url("twitter.css");
+@import url("johndoe.css");
+@import url("testimonial.css");
+@import url("formulaire.css");
+@import url("footer.css");
+
+body {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+}
+

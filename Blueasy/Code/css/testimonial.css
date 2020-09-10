@@ -1,0 +1,25 @@
+@media screen and (max-width: 750px) {
+    .textGris {
+        text-align: justify;
+    }
+  } 
+
+.quote i {
+    color: #515f67;
+    font-size: 35px;
+    vertical-align: middle;
+}
+
+.testiomnial {
+    display: flex;
+    justify-content: space-between;
+}
+
+.textGris {
+    margin-top: 5vh;
+    font-size: 20px;
+}
+
+.infoTesti {
+    color: #4bcaff;
+}

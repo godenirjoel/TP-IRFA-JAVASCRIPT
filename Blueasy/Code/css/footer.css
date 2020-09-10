@@ -1,0 +1,43 @@
+@media screen and (max-width: 750px) {
+    .copy {
+      margin-right: 40%;
+    }
+  }
+
+.containerFooter {
+    height: 50%;
+}
+
+.footer {
+    background-color: #353f47 ;
+    width: 100vw;
+}
+
+.lienFooter a {
+    color: #515f67;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 10px;
+}
+
+.lienFooter ul li {
+    list-style: none;
+    display: inline-block;
+    border-right: 2px solid #515f67 ;
+}
+
+.lienFooter p {
+    color: #515f67 ;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: right;
+}
+
+.lienFooter {
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
+.lienFooter ul li:nth-child(4) {
+    border-right: 1px solid transparent ;
+}

@@ -1,0 +1,71 @@
+@media screen and (max-width: 750px) {
+    iframe {
+      width: 400px;
+    }
+  }
+
+.containerPorfolio {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+.titrePortfolio {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 40px ;
+}
+
+.divDroite {
+    text-align: right;
+}
+
+.lienPortfolio a {
+    color: #515f67 ;
+    font-size: 20px;
+    text-align: right;
+    margin: 10px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.lienPortfolio a:hover {
+    border: 2px solid #4bcaff ;
+    font-size: 20px;
+    text-decoration: none;
+    color: #4bcaff ;
+}
+
+.souligneBlanc {
+    width: 80px;
+    border: 1px solid #515f67 ;
+}
+
+.containerImage {
+    margin-top: 5vh;
+}
+
+.imagePortfolio {
+    margin-top: 15px;
+}
+
+.image:hover {
+    background-color: #353f47;    
+    transition-duration: 0.5s;
+}
+
+.hover {
+    position: absolute;
+    color: white;
+    top: 40%;
+    left: 45%;
+    font-size: 50px;
+    z-index: 20;
+    font-weight: 100;
+    visibility: hidden;
+}
+
+.hover:hover {
+    visibility: visible;
+}
+
+
