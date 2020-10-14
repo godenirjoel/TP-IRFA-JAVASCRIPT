@@ -1,0 +1,37 @@
+.header {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(../img/viking.jpg);
+    filter: grayscale(70%) ;
+    width: 100%;
+    height: 90vh;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: right;
+}
+
+.containerTitre {
+    vertical-align: middle;
+    padding-top: 20%;
+    padding-left: 15%;
+}
+
+.containerTitre h1 {
+    color: whitesmoke;
+    text-align: center;
+    display: flex;
+    text-transform: uppercase;
+    font-size: 2em;
+}
+
+.btnHeader {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 35%;
+    margin-top: 10px;
+    border: transparent 1px solid;
+    box-shadow: whitesmoke 1px 1px 10px;
+}
+

@@ -1,0 +1,278 @@
+/* ///////////////////
+    PARTIE NAVBAR 
+/////////////////// */
+
+.icone {
+    width: 35px;
+    margin-right: 5px;
+}
+
+.icone1 {
+    width: 252px;
+}
+
+.btnHaut {
+    margin : 10px
+}
+
+.navbar {
+    padding: 20px;
+    box-shadow: rgba(128, 128, 128, 0.397) 1px 1px 8px;
+}
+
+
+/* ///////////////////
+        TITRE 
+/////////////////// */
+
+.titre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+
+    font-weight: 350;
+    font-size: 35px;
+    color: rgb(71, 71, 71);
+}
+
+.selection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+}
+
+.containerProposition {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    top: 45px;
+}
+
+/* ///////////////////
+        CARDS
+/////////////////// */
+
+.boite {
+    border: 1px solid rgba(128, 128, 128, 0.315);
+    width: 300px;
+    height: 470px;
+    margin-top: 30px;
+}
+
+.headerCard {
+    background-color: rgb(244,250,255);
+    padding: 15px;
+}
+
+.headerCard h1 {
+    font-weight: 400;
+    font-size: 28px;
+    color: #47525d ;
+}
+
+.tarifCard {
+    padding: 30px;
+}
+
+.tarifCard h1 {
+    font-size: 45px;
+    font-weight: 300;
+    color: #47525d;
+    margin-bottom: 5px;
+}
+
+.tarifCard span {
+    color: #47525d;
+}
+
+.listeCard ul li {
+    margin-top: 20px;
+    color: #47525d ;
+    font-size: 15px;
+}
+
+.btnCard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.btnCardCenter {
+    width: 250px;
+}
+
+.btnCard1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 65px;
+}
+
+.espace {
+    margin: 10px;
+}
+
+.espace1 {
+    margin-top: 150px;
+}
+
+.headerCardbleu {
+    background-color: #0071E0;
+    padding: 15px;
+}
+
+.headerCardbleu h1 {
+    font-weight: 400;
+    font-size: 28px;
+    color: white ;
+}
+
+.boiteCentre {
+    border: 1px solid rgba(128, 128, 128, 0.315);
+    margin-top: 30px;
+    width: 300px;
+    height: 470px;
+    background-color: #F4FAFF ;
+}
+
+.bestValue {
+    position: absolute;
+    background-color: rgb(153,198,243) ;
+    width: 300px;
+}
+
+.bestValue h5 {
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+/* ///////////////////
+        LISTE
+/////////////////// */
+
+i {
+    color: #0071E0 ;
+    margin-right: 5px;
+}
+
+.listePuce ul li {
+    list-style: none;
+    margin: 7px;
+    color: #47525d ;
+    width: 250px;
+}
+
+.containerListe {
+    margin-top: 50px;
+}
+
+.boiteListe {
+    width: 200px;
+}
+
+
+/* ///////////////////
+        Question
+/////////////////// */
+
+.boiteQuestion{
+    margin-top: 80px;
+}
+
+.question {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.question h1, h4, p {
+    margin-top: 25px;
+    color: #5b636b ;
+}
+
+.question h1 {
+    font-weight: lighter;
+}
+
+.question h4 {
+    font-weight: lighter;
+}
+
+.question p {
+    font-weight: lighter;
+}
+
+/* ///////////////////
+    Testimonial
+/////////////////// */
+
+.containerFond {
+    background-color: rgb(246,249,252);
+    height: 250px;
+    margin-top: 80px;
+}
+
+.basPage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+}
+
+.basPage h4 {
+    color: #5b636b ;
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+.dedicace {
+    padding-top: 15px;
+    font-size: 20px;
+}
+
+.fin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    color: #5b636b ;
+    font-weight: lighter;
+    font-size: 30px;
+}
+
+/* ///////////////////
+    Bas de page 
+/////////////////// */
+
+.footer {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    width: 1000px;
+}
+
+.lienFin a {
+    color: #5b636b  ;
+}
+
+.lienfin h4 {
+    color: #5b636b ;
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+/* ///////////////////
+    Icone reseau 
+/////////////////// */
+
+.icones {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    font-size: 35px;
+    color: #b3b7bb ;
+}
